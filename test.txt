@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Master change
-=======
-Feature X Change
 Feature Y Change
->>>>>>> featureY
+
